@@ -37,6 +37,4 @@ Este proyecto está bajo la licencia MIT. Consulta el archivo [LICENSE](LICENSE)
 
 ## 📬 Contacto
 
-Desarrollado por: *[Tu nombre]*  
-Correo: *[Tu correo o medio de contacto]*  
-Repositorio original: [GitHub - TuNombre/NombreDelRepositorio](https://github.com/TuNombre/NombreDelRepositorio)
+Desarrollado por: Samuel Hernández  
